@@ -183,6 +183,244 @@ Multi‑tenant Security Operations Center (SOC) platform for real‑time threat 
 
 <br/>
 
+
+<p align="center">╔══════════════════════════════════════════════════════════════════════╗</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Abdellahi+Baba;AI+Engineer+%7C+Cybersecurity+Specialist+%7C+Founder;Building+Secure+%26+Intelligent+Digital+Systems" />
+</h1>
+
+<p align="center">
+  <strong>CEO • Cybersecurity Specialist • AI Engineer • FinTech Innovator</strong><br/>
+  Designing secure, scalable, and intelligent systems for the modern digital world.
+</p>
+
+<p align="center">╚══════════════════════════════════════════════════════════════════════╝</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdellahibaba/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/AbdellahiBaba" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://qalamai.net" target="_blank">
+  <img src="https://img.shields.io/badge/QalamAI-020617?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+
+<a href="https://aegisai360.com" target="_blank">
+  <img src="https://img.shields.io/badge/AegisAI360-020617?style=for-the-badge&logo=shield&logoColor=00C2FF" />
+</a>
+
+<a href="https://limjiba.com" target="_blank">
+  <img src="https://img.shields.io/badge/LIMJIBA-020617?style=for-the-badge&logo=shopping-cart&logoColor=38BDF8" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Professional+Summary" />
+</p>
+
+## 🧩 Summary  
+Dynamic CEO, cybersecurity specialist, and AI engineer with a strong background in **secure systems**, **financial technology**, **AI‑driven platforms**, and **enterprise operations**. Experienced in building scalable architectures, leading cross‑functional teams, and delivering high‑impact digital solutions across global markets.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Experience" />
+</p>
+
+## 💼 Experience
+
+### **Chief Executive Officer — The DIDA Nomad**  
+**Apr 2023 – Present | Remote (Austin, TX)**  
+Leading digital innovation, product development, and operational strategy for a global tech brand.
+
+---
+
+### **Founder & CEO — MiConnect F.M.S. Group**  
+**Apr 2023 – Present | UAE | Remote**  
+Building next‑generation **Financial Management Systems** with a focus on:
+
+- Secure transaction platforms  
+- Scalable cloud architectures  
+- Real‑time analytics  
+- User‑centric financial interfaces  
+- Automation & intelligent workflows  
+
+---
+
+### **Chairman, Founder & CEO — Self‑Employed**  
+**Apr 2023 – Present**  
+Entrepreneurial leadership across multiple digital ventures.
+
+---
+
+### **Freelance Technical Writer / Ghostwriter — Contena**  
+**Apr 2023 – May 2023 | Remote**  
+Produced high‑quality technical and editorial content for global clients.
+
+---
+
+### **Freelance Content Writer — Self‑Employed**  
+**2019 – 2023 | Remote**  
+Delivered research‑driven content, marketing materials, and long‑form writing.
+
+---
+
+### **General Manager — Rukn Al Asala Trading LLC**  
+**Oct 2022 – Mar 2023 | Dubai**  
+Oversaw operations across jewelry, watches, and perfume divisions.
+
+---
+
+### **Call Center Manager — Kodland**  
+**Jan 2021 – Sep 2022 | Remote**  
+Led call‑center operations, analytics, and performance optimization.
+
+---
+
+### **Telesales Specialist — Jumbo Electronics / Du Telecom**  
+**2021 – 2022 | UAE**  
+Sales, customer engagement, and team training.
+
+---
+
+### **Independent Contractor — TransPerfect**  
+**2020 – 2021 | Remote**  
+Data collection and analysis for home‑technology development.
+
+---
+
+### **Customer Service Supervisor — Port of Nouakchott**  
+**2019 | Mauritania**
+
+---
+
+### **Accountant — M.T.S Maas Peche**  
+**2017 – 2019 | Remote (USA)**  
+Financial reporting, forecasting, and auditing.
+
+---
+
+### **Insurance Sales Agent — Lawley**  
+**2015 – 2016 | Remote (USA)**
+
+---
+
+### **Sales Associate — Samsung Electronics**  
+**2010 – 2015 | Mauritania**
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Education" />
+</p>
+
+## 🎓 Education
+
+### **BTech — Cyber/Electronic Operations & Warfare**  
+**Illinois Institute of Technology | 2014 – 2016**  
+Cyber defense, offensive security, digital forensics, electronic warfare.
+
+---
+
+### **MBA — Business Administration**  
+**University of the People | 2021 – 2022**
+
+---
+
+### **BBA — Business Administration**  
+**University of the People | 2018 – 2020**
+
+---
+
+### **Certificates**
+- Information Technology — Google/Coursera  
+- Computational Thinking — University of Michigan  
+- B2B Sales — LinkedIn  
+- Employee Engagement — SHRM  
+- Telesales — du  
+- Technical Support Fundamentals — Google  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Core+Skills" />
+</p>
+
+## 🧠 Core Skills
+
+### **Technical**
+- Cybersecurity & Threat Intelligence  
+- Secure Network Architecture  
+- Penetration Testing  
+- Digital Forensics  
+- Cloud Systems  
+- Linux, DNS, Networking  
+
+### **Business & Leadership**
+- Strategic Planning  
+- Operations Management  
+- Financial Oversight  
+- Team Leadership  
+- Stakeholder Management  
+
+### **Writing & Communication**
+- Technical Writing  
+- Ghostwriting  
+- Editing & Content Strategy  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Featured+Projects" />
+</p>
+
+## 🚀 Featured Projects
+
+### **QalamAI — Arabic AI Writing Platform**  
+AI‑powered writing assistant with GPT‑based modes, DALL·E, Whisper, XTTS, and full export pipeline.  
+🔗 https://qalamai.net
+
+---
+
+### **AegisAI360 — SOC Platform**  
+Security Operations Center with real‑time monitoring, analytics, and multi‑tenant architecture.  
+🔗 https://aegisai360.com
+
+---
+
+### **LIMJIBA — E‑Commerce Management System**  
+ERP + storefront + POS + invoicing + AI marketing.  
+🔗 https://limjiba.com
+
+---
+
+### **Abu‑Hashim AI — Arabic LLM Framework**  
+Custom Arabic LLM fine‑tuning and inference pipelines.  
+🔗 https://github.com/AbdellahiBaba/abu-hashim-ai
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<p align="center">╔══════════════════════════════════════════════════════════════════════╗</p>
+<p align="center"><strong>System Status: ONLINE • SECURE • READY</strong></p>
+<p align="center">╚══════════════════════════════════════════════════════════════════════╝</p>
+
 <!-- CYBER SNAKE / GRID ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
