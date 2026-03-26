@@ -407,8 +407,8 @@ Custom Arabic LLM fine‑tuning and inference pipelines.
 # 📊 Stats Dashboard
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdellahiBaba&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahiBaba&layout=compact&theme=tokyonight&border_radius=12" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdellahiBaba&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdellahiBaba&layout=compact&theme=tokyonight&border_radius=12" />
 </div>
 
 <div align="center">
