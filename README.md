@@ -1,12 +1,13 @@
-<!-- HERO HEADER -->
-<h1 align="center">👋 Hi, I'm <strong>Abdellahi Baba</strong></h1>
-<h3 align="center">AI Engineer • Full‑Stack Developer • Cybersecurity Architect</h3>
+<!-- ANIMATED HERO HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abdellahi+Baba;AI+Engineer;Full‑Stack+Developer;Cybersecurity+Architect;Building+AI‑Driven+Products" />
+</h1>
 
 <br/>
 
 <!-- BRAND LINE -->
 <p align="center">
-  Building intelligent systems that merge AI, engineering, and security into real‑world products.
+  <strong>Engineering intelligent systems that merge AI, software, and security into real‑world products.</strong>
 </p>
 
 <br/>
@@ -157,8 +158,14 @@ Multi‑tenant cybersecurity operations center with real‑time threat monitorin
 
 <br/>
 
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
 <!-- FOOTER -->
 <p align="center">
   <strong>Let’s build something extraordinary.</strong>
 </p>
-
