@@ -190,6 +190,14 @@ Multi‑tenant Security Operations Center (SOC) platform for real‑time threat 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Abdellahi+Baba;AI+Engineer+%7C+Cybersecurity+Specialist+%7C+Founder;Building+Secure+%26+Intelligent+Digital+Systems" />
 </h1>
 
+
+<p align="center">╔══════════════════════════════════════════════════════════════════════╗</p>
+
+<!-- CYBER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Abdellahi+Baba;AI+Engineer+%7C+Cybersecurity+Specialist+%7C+Founder;Building+Secure+%26+Intelligent+Digital+Systems" />
+</p>
+
 <p align="center">
   <strong>CEO • Cybersecurity Specialist • AI Engineer • FinTech Innovator</strong><br/>
   Designing secure, scalable, and intelligent systems for the modern digital world.
@@ -227,20 +235,25 @@ Multi‑tenant Security Operations Center (SOC) platform for real‑time threat 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Professional+Summary" />
-</p>
+# 🎯 Mission  
+To build **secure**, **intelligent**, and **scalable** digital systems that empower organizations, enhance financial transparency, and elevate human capability through AI and cybersecurity innovation.
 
-## 🧩 Summary  
+---
+
+# 🧠 Tech Stack (Visual Grid)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,docker,linux,fastapi,flask,git,github,tailwind,nginx,vite,figma" />
+</div>
+
+---
+
+# 🧩 Professional Summary  
 Dynamic CEO, cybersecurity specialist, and AI engineer with a strong background in **secure systems**, **financial technology**, **AI‑driven platforms**, and **enterprise operations**. Experienced in building scalable architectures, leading cross‑functional teams, and delivering high‑impact digital solutions across global markets.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Experience" />
-</p>
-
-## 💼 Experience
+# 💼 Experience
 
 ### **Chief Executive Officer — The DIDA Nomad**  
 **Apr 2023 – Present | Remote (Austin, TX)**  
@@ -261,44 +274,37 @@ Building next‑generation **Financial Management Systems** with a focus on:
 ---
 
 ### **Chairman, Founder & CEO — Self‑Employed**  
-**Apr 2023 – Present**  
-Entrepreneurial leadership across multiple digital ventures.
+**Apr 2023 – Present**
 
 ---
 
 ### **Freelance Technical Writer / Ghostwriter — Contena**  
-**Apr 2023 – May 2023 | Remote**  
-Produced high‑quality technical and editorial content for global clients.
+**Apr 2023 – May 2023 | Remote**
 
 ---
 
 ### **Freelance Content Writer — Self‑Employed**  
-**2019 – 2023 | Remote**  
-Delivered research‑driven content, marketing materials, and long‑form writing.
+**2019 – 2023 | Remote**
 
 ---
 
 ### **General Manager — Rukn Al Asala Trading LLC**  
-**Oct 2022 – Mar 2023 | Dubai**  
-Oversaw operations across jewelry, watches, and perfume divisions.
+**Oct 2022 – Mar 2023 | Dubai**
 
 ---
 
 ### **Call Center Manager — Kodland**  
-**Jan 2021 – Sep 2022 | Remote**  
-Led call‑center operations, analytics, and performance optimization.
+**Jan 2021 – Sep 2022 | Remote**
 
 ---
 
 ### **Telesales Specialist — Jumbo Electronics / Du Telecom**  
-**2021 – 2022 | UAE**  
-Sales, customer engagement, and team training.
+**2021 – 2022 | UAE**
 
 ---
 
 ### **Independent Contractor — TransPerfect**  
-**2020 – 2021 | Remote**  
-Data collection and analysis for home‑technology development.
+**2020 – 2021 | Remote**
 
 ---
 
@@ -308,8 +314,7 @@ Data collection and analysis for home‑technology development.
 ---
 
 ### **Accountant — M.T.S Maas Peche**  
-**2017 – 2019 | Remote (USA)**  
-Financial reporting, forecasting, and auditing.
+**2017 – 2019 | Remote (USA)**
 
 ---
 
@@ -323,27 +328,21 @@ Financial reporting, forecasting, and auditing.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Education" />
-</p>
+# 🕒 Career Timeline
 
-## 🎓 Education
-
-### **BTech — Cyber/Electronic Operations & Warfare**  
-**Illinois Institute of Technology | 2014 – 2016**  
-Cyber defense, offensive security, digital forensics, electronic warfare.
 
 ---
+
+# 🎓 Education
+
+### **BTech — Cyber/Electronic Operations & Warfare**  
+**Illinois Institute of Technology | 2014 – 2016**
 
 ### **MBA — Business Administration**  
 **University of the People | 2021 – 2022**
 
----
-
 ### **BBA — Business Administration**  
 **University of the People | 2018 – 2020**
-
----
 
 ### **Certificates**
 - Information Technology — Google/Coursera  
@@ -355,11 +354,7 @@ Cyber defense, offensive security, digital forensics, electronic warfare.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Core+Skills" />
-</p>
-
-## 🧠 Core Skills
+# 🧠 Core Skills
 
 ### **Technical**
 - Cybersecurity & Threat Intelligence  
@@ -383,11 +378,7 @@ Cyber defense, offensive security, digital forensics, electronic warfare.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=%3E+Featured+Projects" />
-</p>
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### **QalamAI — Arabic AI Writing Platform**  
 AI‑powered writing assistant with GPT‑based modes, DALL·E, Whisper, XTTS, and full export pipeline.  
@@ -413,19 +404,31 @@ Custom Arabic LLM fine‑tuning and inference pipelines.
 
 ---
 
+# 📊 Stats Dashboard
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdellahiBaba&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahiBaba&layout=compact&theme=tokyonight&border_radius=12" />
+</div>
 
-<!-- CYBER SNAKE / GRID ANIMATION -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdellahiBaba&theme=tokyonight&margin-w=10" />
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<br/>
+---
 
-<p align="center">
-╚══════════════════════════════════════════════════════════════════════╝
-</p>
+# 📩 Contact Me  
+If you want to collaborate, build something extraordinary, or explore new ideas — feel free to reach out through LinkedIn or any of my platforms above.
 
-<p align="center">
-  <strong>›› System Status: ONLINE · SECURE · READY FOR NEW MISSIONS</strong>
-</p>
+<p align="center">╔══════════════════════════════════════════════════════════════════════╗</p>
+<p align="center"><strong>System Status: ONLINE • SECURE • READY</strong></p>
+<p align="center">╚══════════════════════════════════════════════════════════════════════╝</p>
+
