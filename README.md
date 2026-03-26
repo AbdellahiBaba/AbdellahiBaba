@@ -413,13 +413,7 @@ Custom Arabic LLM fine‑tuning and inference pipelines.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
-<p align="center">╔══════════════════════════════════════════════════════════════════════╗</p>
-<p align="center"><strong>System Status: ONLINE • SECURE • READY</strong></p>
-<p align="center">╚══════════════════════════════════════════════════════════════════════╝</p>
 
 <!-- CYBER SNAKE / GRID ANIMATION -->
 <div align="center">
