@@ -18,30 +18,24 @@
 <br/>
 
 <!-- CYBER LINKS -->
-
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdellahibaba/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-
 <a href="https://qalamai.net" target="_blank">
-  <img src="https://img.shields.io/badge/QalamAI-020617?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/QalamAI-020617?logo=openai&logoColor=white&style=for-the-badge" />
 </a>
-
 <a href="https://aegisai360.com" target="_blank">
-  <img src="https://img.shields.io/badge/AegisAI360-020617?style=for-the-badge&logo=shield&logoColor=00C2FF" />
+  <img src="https://img.shields.io/badge/AegisAI360-020617?logo=azuredevops&logoColor=00C2FF&style=for-the-badge" />
 </a>
-
 <a href="https://limjiba.com" target="_blank">
-  <img src="https://img.shields.io/badge/LIMJIBA-020617?style=for-the-badge&logo=shopping-cart&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LIMJIBA-020617?logo=shopify&logoColor=38BDF8&style=for-the-badge" />
 </a>
 
 </div>
-
 
 <br/>
 
